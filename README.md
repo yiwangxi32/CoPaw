@@ -114,7 +114,35 @@ npm run dev
 
 > ⚠️ 首次登录后请立即修改密码
 
-## 🔧 配置说明
+## � 使用教程
+
+### 步骤 1：启动应用
+
+双击项目根目录下的 `CoPaw Desktop.vbs` 文件：
+
+![启动文件](docs/images/step1-launch.png)
+
+### 步骤 2：登录界面
+
+应用启动后会自动打开浏览器，显示登录界面：
+
+![登录界面](docs/images/step2-login.png)
+
+输入账号密码：
+- **邮箱**: `admin@local`
+- **密码**: `change-me-now`
+
+点击「登录」按钮。
+
+### 步骤 3：进入主界面
+
+登录成功后，进入 CoPaw 主界面：
+
+![主界面](docs/images/step3-dashboard.png)
+
+现在可以开始使用 AI 聊天功能了！
+
+## �🔧 配置说明
 
 ### 后端配置 (`web/backend/.env`)
 
