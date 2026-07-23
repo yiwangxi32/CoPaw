@@ -1,0 +1,29 @@
+Copyright (c) 2026 <YOUR_NAME_OR_COMPANY>. All rights reserved.
+
+PROPRIETARY SOFTWARE LICENSE
+
+1. Ownership
+This software and all associated source code, assets, and documentation (the "Software")
+are the exclusive property of the copyright holder.
+
+2. No Redistribution
+You may not copy, distribute, sublicense, sell, publish, or otherwise transfer the
+Software, in whole or in part, without prior written permission from the copyright holder.
+
+3. No Public Use
+You may not make the Software available to the public (including via public repositories,
+package registries, or public deployment endpoints) without prior written permission.
+
+4. Third-Party Components
+The Software may depend on third-party libraries that are licensed separately under their
+own terms. Those third-party licenses apply only to the respective components and do not
+grant any rights to the Software beyond those components.
+
+5. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
