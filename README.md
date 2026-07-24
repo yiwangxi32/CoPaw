@@ -221,21 +221,6 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker app.main:app
 - Python: 使用 `black` 和 `flake8` 进行代码格式化
 - TypeScript: 使用 ESLint 和 Prettier
 
-### 提交规范
-
-```
-feat: 添加新功能
-fix: 修复 Bug
-docs: 更新文档
-style: 代码格式调整
-refactor: 代码重构
-test: 添加测试
-```
-
-## 📄 许可证
-
-MIT License
-
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
